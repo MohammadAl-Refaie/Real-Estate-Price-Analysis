@@ -22,4 +22,6 @@ The project includes:
 
 - Model interpretation and final conclusion
 
+You can find attached the dataset and the notebook.
+
 Feel free to contact if you needed further assistant.
